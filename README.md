@@ -4,7 +4,7 @@
 This class is an introduction to data analysis with Python.
 
 Please create a local copy of the code and required files by cloning the repository:
-$ [git clone https://github.com/hernanmorales-navarrete/IntroBioImageAnalysis.git](https://github.com/hernanmorales-navarrete/DataAnalysisWithPython.git)
+$ git clone https://github.com/hernanmorales-navarrete/IntroBioImageAnalysis.git
 
 We will use python 3.x (as python2 is not supported anymore). Similarly, we will mainly use jupyter notebooks (.ipynb) for the courses taught at this course.
 
