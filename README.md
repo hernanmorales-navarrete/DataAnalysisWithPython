@@ -25,8 +25,10 @@ One option is to use Google Colab, for which you would need a Google account, wh
 
 2. Upload the notebooks and the image data (tiffs and jpgs)
 
-3. Open this notebook: [My_first_python_notebook.ipynb](My_first_python_notebook.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hernanmorales-navarrete/DataAnalysisWithPython/blob/main/My_first_python_notebook.ipynb)
-
+3. Open this notebook:
+   * [My_first_python_notebook.ipynb](My_first_python_notebook.ipynb)
+   * GoogleColab:[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hernanmorales-navarrete/DataAnalysisWithPython/blob/main/My_first_python_notebook.ipynb)
+ 
 ### 1. Basic programming with Python
 - Introduction to prgramming in Python
 	* [Basic_Programming_with_Python.ipynb](Basic_Programming_with_Python.ipynb)
