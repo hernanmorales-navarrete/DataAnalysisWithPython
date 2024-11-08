@@ -30,8 +30,13 @@ One option is to use Google Colab, for which you would need a Google account, wh
    * GoogleColab:[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hernanmorales-navarrete/DataAnalysisWithPython/blob/main/My_first_python_notebook.ipynb)
  
 ### 1. Basic programming with Python
-- Introduction to prgramming in Python
+- Introduction to programming in Python
 	* [Basic_Programming_with_Python.ipynb](Basic_Programming_with_Python.ipynb)
 	* GoogleColab:
  		[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hernanmorales-navarrete/DataAnalysisWithPython/blob/main/Basic_Programming_with_Python.ipynb)
 
+### 2. Data Analysis with Python
+- Introduction to Data Analysis with Python
+	* [Data_Analysis_with_Python.ipynb](Data_Analysis_with_Python.ipynb)
+	* GoogleColab:
+ 		[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hernanmorales-navarrete/DataAnalysisWithPython/blob/main/Data_Analysis_with_Python.ipynb#scrollTo=Qb1SxJiX4m3Z)
