@@ -43,6 +43,6 @@ One option is to use Google Colab, for which you would need a Google account, wh
 
  ### 2. Network Analysis with Python
 - Introduction to Network Analysis with Python
-	* [Data_Analysis_with_Python.ipynb](Network_Analysis_with_Python.ipynb)
+	* [Network_Analysis_with_Python.ipynb](Network_Analysis_with_Python.ipynb)
 	* GoogleColab:
  		[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hernanmorales-navarrete/DataAnalysisWithPython/blob/main/Network_Analysis_with_Python.ipynb)
