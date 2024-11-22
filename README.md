@@ -50,6 +50,6 @@ One option is to use Google Colab, for which you would need a Google account, wh
 
  ### 3. Text Mining with Python
 - Introduction to Network Analysis with Python
-	* [Text_minning.ipynb](Text_minning.ipynb)
+	* [Text_minning.ipynb](text_minning.ipynb)
 	* GoogleColab:
- 		[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hernanmorales-navarrete/DataAnalysisWithPython/blob/main/Text_minning.ipyn)
+ 		[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hernanmorales-navarrete/DataAnalysisWithPython/blob/main/text_minning.ipyn)
