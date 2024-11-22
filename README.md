@@ -52,4 +52,4 @@ One option is to use Google Colab, for which you would need a Google account, wh
 - Introduction to Network Analysis with Python
 	* [Text_minning.ipynb](Text_minning.ipynb)
 	* GoogleColab:
- 		[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hernanmorales-navarrete/DataAnalysisWithPython/blob/main/Network_Analysis_with_Python.ipynb)
+ 		[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hernanmorales-navarrete/DataAnalysisWithPython/blob/main/Text_minning.ipyn)
