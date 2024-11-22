@@ -48,7 +48,7 @@ One option is to use Google Colab, for which you would need a Google account, wh
  		[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hernanmorales-navarrete/DataAnalysisWithPython/blob/main/Network_Analysis_with_Python.ipynb)
 
 
- ### 3. Text Mining with Python
+ ### 4. Text Mining with Python
 - Introduction to Network Analysis with Python
 	* [Text_minning.ipynb](text_minning.ipynb)
 	* GoogleColab:
